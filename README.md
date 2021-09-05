@@ -13,6 +13,7 @@
 ### Reach out to me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][Linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][Instagram]
 
 
 <br />
@@ -60,4 +61,5 @@
 
 
 [Linkedin]: https://www.linkedin.com/in/onurcan-işık-8b2b58212/
+[Instagram]: https://www.instagram.com/onurcn_isk/
 
