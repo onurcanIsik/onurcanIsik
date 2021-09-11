@@ -7,6 +7,7 @@
 
 
 ### Hi There, I'm Onurcan. :wave:
+#### I am a student at Düzce University
 
 ## Flutter Developer | Mobile App Creator
 
