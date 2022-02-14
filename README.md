@@ -69,5 +69,5 @@
 
 1) https://play.google.com/store/apps/details?id=com.note.pad.simple
 2) https://play.google.com/store/apps/details?id=com.unical
-3) https://play.google.com/store/apps/details?id=com.colorPlate
+3) https://play.google.com/store/apps/details?id=com.myenglish
 
