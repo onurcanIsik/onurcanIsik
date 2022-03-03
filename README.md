@@ -33,13 +33,14 @@
 
 ### I Use IDE and Editors 💻
 
-<img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25" height="25">
+<img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25" height="25"> 
+
 
 
 
 
 ### :ringed_planet: Database 
-<img src = "https://camo.githubusercontent.com/aa493b88b85217e501f20ffec3d8e0d347e8f50aa894ee6698c3a6e2678e39c8/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f66697265626173652d6c6f676f2e706e67" width="25" height="25" > <img src = "https://img.icons8.com/fluency/48/000000/database.png" width="25" height="25"> <img src = "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-api-computer-science-flaticons-lineal-color-flat-icons-2.png" width="25" height="25">
+<img src = "https://camo.githubusercontent.com/aa493b88b85217e501f20ffec3d8e0d347e8f50aa894ee6698c3a6e2678e39c8/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f66697265626173652d6c6f676f2e706e67" width="25" height="25" > <img src = "https://img.icons8.com/fluency/48/000000/database.png" width="25" height="25"> <img src = "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-api-computer-science-flaticons-lineal-color-flat-icons-2.png" width="25" height="25"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 
 
 
