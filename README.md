@@ -13,8 +13,8 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][Linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][Instagram]
+[<img height="32" width="32" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" align="left" />][Linkedin]
+[<img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" align="left" />][Instagram]
 
 
 <br />
