@@ -50,12 +50,12 @@
 
 <details>
 <summary> :full_moon: GitHub Stats </summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=KeJi-I&theme=bear">
+<img src = "https://github-readme-stats.vercel.app/api?username=onurcanIsik&theme=bear">
 </details>
 
 <details>
 <summary> :full_moon: most Used Languages </summary>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KeJi-I&layout=compact&theme=bear">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&layout=compact&theme=bear">
 </details>
 
 
