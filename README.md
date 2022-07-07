@@ -68,7 +68,7 @@
 
 ### My Google Play Apps:
 
-1) https://play.google.com/store/apps/details?id=com.note.pad.simple
-2) https://play.google.com/store/apps/details?id=com.unical
-3) https://play.google.com/store/apps/details?id=com.myenglish
+1) https://play.google.com/store/apps/dev?id=8367135634252337971
+2) https://play.google.com/store/apps/dev?id=7439022091043588750
+
 
