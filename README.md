@@ -22,7 +22,7 @@
 
 ### Tech I Use
 
-<img src="https://camo.githubusercontent.com/1a465531ca02c702221092851b9f1b795cedab10d227b3a8c9ddf82d1a255136/68747470733a2f2f7374617469632e63646e6c6f676f2e636f6d2f6c6f676f732f662f33302f666c75747465722e737667" width="25" height="25">  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" width="30" height="30">
+<img src="https://camo.githubusercontent.com/1a465531ca02c702221092851b9f1b795cedab10d227b3a8c9ddf82d1a255136/68747470733a2f2f7374617469632e63646e6c6f676f2e636f6d2f6c6f676f732f662f33302f666c75747465722e737667" width="25" height="25">  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="25" height="25">  
 
 
 
