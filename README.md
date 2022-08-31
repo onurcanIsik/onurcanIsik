@@ -67,9 +67,8 @@
 [Instagram]: https://www.instagram.com/onurcn_isk/
 
 
-### My Google Play Apps:
+<h1> My Badge </h1>
 
-1) https://play.google.com/store/apps/dev?id=8367135634252337971
-2) https://play.google.com/store/apps/dev?id=7439022091043588750
+<a href="https://play.google.com/store/apps/dev?id=8367135634252337971"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/googleplay-publisher.svg" alt="Flutter GooglePlay Publisher" align="left" height="60" width="60" ></a>
 
 
