@@ -11,67 +11,31 @@
 
 ## Flutter Developer | Mobile App Creator
 
-### Reach out to me
-
-[<img height="32" width="32" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" align="left" />][Linkedin]
-[<img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" align="left" />][Instagram]
-
-
-<br />
-<br />
-
-### Tech I Use
-
-<img src="https://camo.githubusercontent.com/1a465531ca02c702221092851b9f1b795cedab10d227b3a8c9ddf82d1a255136/68747470733a2f2f7374617469632e63646e6c6f676f2e636f6d2f6c6f676f732f662f33302f666c75747465722e737667" width="25" height="25">  <img src="https://img.icons8.com/color/48/000000/swift.png" width="25" height="25">  <img 
-src="https://img.icons8.com/color/48/000000/dart.png" width="25" height="25"> 
 
 
 
 
+# 💫 About Me:
+🏆 I'm currently working on Flutter 
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onurcan_isk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onurcanisik) 
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onurcanIsik&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onurcanIsik&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=onurcanIsik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=onurcanIsik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### I Use IDE and Editors 💻
+---
+[![](https://visitcount.itsvg.in/api?id=onurcanIsik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src = "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25" height="25">  <img
- src="https://img.icons8.com/color/48/000000/xcode.png" width="25" height="25">
-
-
-
-
-
-### :ringed_planet: Database 
-<img src = "https://camo.githubusercontent.com/aa493b88b85217e501f20ffec3d8e0d347e8f50aa894ee6698c3a6e2678e39c8/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f66697265626173652d6c6f676f2e706e67" width="25" height="25" > <img src = "https://img.icons8.com/fluency/48/000000/database.png" width="25" height="25"> <img src = "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-api-computer-science-flaticons-lineal-color-flat-icons-2.png" width="25" height="25"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-
-
-
-<br />
-<br />
-<br />
-
-<details>
-<summary> :full_moon: GitHub Stats </summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=onurcanIsik&theme=bear">
-</details>
-
-<details>
-<summary> :full_moon: most Used Languages </summary>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&layout=compact&theme=bear">
-</details>
-
-
-
-
-
-[Linkedin]: https://www.linkedin.com/in/onurcan-işık-8b2b58212/
-[Instagram]: https://www.instagram.com/onurcn_isk/
-
-
-<h1> My Badge </h1>
-
-<a href="https://play.google.com/store/apps/dev?id=8367135634252337971"><img src="https://flutter-badge-generator.web.app/assets/assets/images/badges/googleplay-publisher.svg" alt="Flutter GooglePlay Publisher" align="left" height="60" width="60" ></a>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
