@@ -1,41 +1,60 @@
+<!-- Header -->
+<h1 align="center">Hey, I'm Onurcan 👋</h1>
+<p align="center">
+  <b>Flutter Developer · Mobile App Creator</b><br/>
+  I build fast, scalable apps with Flutter & Firebase.
+</p>
 
-
-
-
-
-
-
-
-### Hi There, I'm Onurcan. :wave:
-#### I am a student at Atılım University
-
-## Flutter Developer | Mobile App Creator
-
-
-
-
-
-# 💫 About Me:
-🏆 I'm currently working on Flutter 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onurcan_isk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onurcanisik) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Javascript](https://img.shields.io/badge/javascript-005571?style=for-the-badge&logo=javascript)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=onurcanIsik&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=onurcanIsik&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=onurcanIsik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=onurcanIsik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=8367135634252337971" target="_blank">
+    <img alt="Get it on Google Play" height="48"
+         src="https://img.shields.io/badge/Google%20Play-1a1a1a?style=for-the-badge&logo=googleplay&logoColor=white">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=onurcanIsik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔥 What I'm Building
+- 🚀 Production-grade Flutter apps (Web · Android · iOS)
+- ☁️ Firebase stack: Auth · Firestore · Storage · FCM · Functions
+- 🧪 Clean Architecture · BLoC / Riverpod · CI/CD
+
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onurcan_isk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onurcanisik)
+
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=android&logoColor=3DDC84)
+![iOS](https://img.shields.io/badge/iOS-222222?style=for-the-badge&logo=apple&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### ✨ Featured Apps (Google Play)
+- **Pixspire** — Pixel art & gallery (Flutter + Firebase)
+- **Cluely** — Word & puzzle game with AI hints
+> Daha fazlası için: **Google Play profilim** →  
+> https://play.google.com/store/apps/dev?id=8367135634252337971
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=onurcanIsik&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurcanIsik&theme=gruvbox&hide_border=false" height="150"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&layout=compact&theme=gruvbox&hide_border=false" height="150"/>
+</p>
+
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=onurcanIsik&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=onurcanIsik&icon=0&color=0" />
+</p>
