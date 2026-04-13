@@ -36,13 +36,10 @@
 
 ### 📊 Engineering Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onurcanIsik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanIsik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
-</p>
+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=onurcanIsik&theme=tokyonight&hide_border=true&background=0D1117" width="710" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=onurcanIsik&theme=tokyonight&hide_border=false" width="710" />
 </p>
 
 ---
@@ -50,6 +47,7 @@
 ### ✦ Other Works
 - **Unicall** — University-focused social ecosystem.
 - **Pixspire** — Minimalist pixel art & gallery.
+- **Minty** — AI-driven high-end collector platform.
 
 ---
 
