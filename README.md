@@ -47,12 +47,8 @@
 ### ✦ Other Works
 - **Unicall** — University-focused social ecosystem.
 - **Pixspire** — Minimalist pixel art & gallery.
-- **Minty** — AI-driven high-end collector platform.
+
 
 ---
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=onurcanIsik&icon=0&color=0" />
-</p>
 
-</div>
